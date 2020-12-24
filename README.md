@@ -1,12 +1,14 @@
 # Defense System aganist backdoor attacks on DNN
 backdoor detector for BadNets trained on the YouTube Face dataset
 
-##How should you Run the project
+## How should you run the project
 
 https://drive.google.com/drive/folders/1mf9UHHPq6tg8kZGlFTrFpCJfkg4zhWiB?usp=sharing
 
 Add this google drive folder to your Drive and follow the Notebook snippets,
-In the google Drive folder you can check results in results= and repaired-networks. 
+In the google Drive folder you can check results in 
+* results folder
+* repaired-networks folder
 
 There are similar kinda folders (results_we_got and repaired-networks_we_got) in which you can see the results we got..
 
