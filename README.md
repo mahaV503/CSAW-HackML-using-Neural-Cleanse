@@ -1,7 +1,7 @@
 # Defense System aganist backdoor attacks on DNN
 backdoor detector for BadNets trained on the YouTube Face dataset
 
-##How should you Run the project
+## How should you run the project
 
 https://drive.google.com/drive/folders/1mf9UHHPq6tg8kZGlFTrFpCJfkg4zhWiB?usp=sharing
 
